@@ -4,7 +4,6 @@
 
 # Home page
 GET     /                           controllers.Application.index
-GET     /authors                    controllers.Authors.index
 
 
 # Map static resources from the /public folder to the /assets URL path
